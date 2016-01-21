@@ -2133,11 +2133,12 @@
 
 			#main > section.dark {
 				color: #ddd;
-				color: rgba(255, 255, 255, 0.75);  /*banner non-bold text */
+                
 			}
 
 				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
 					color: inherit;
+                    text-shadow: 1.5px 1.5px black;  /*banner non-bold text originally(color: rgba(255, 255, 255, 0.75)) */
 				}
 
 				#main > section.dark strong {
@@ -2149,7 +2150,7 @@
 					color: #fff;
 					border-color: inherit;
 				}
-
+                                
 					#main > section.dark a:hover {
 						border-bottom-color: rgba(255, 255, 255, 0);
 					}
@@ -2162,7 +2163,7 @@
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/killarney1.jpg");
+				background-image: url("../../images/killarney12.jpg");
 			}
 
 			#main > section.two {
