@@ -5,6 +5,6 @@
 
 -figure out what to do about external link icons at bottom of sidebar
 
--find images to use for banner and sidebar
+-add content to resume and project pages
 
--
+-add about me content, remove portfolio placeholder
