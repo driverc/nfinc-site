@@ -1760,10 +1760,11 @@
 
 		ul.icons li {
 			display: inline-block;
+            color: #41484c;
+            font-size: 0.8em;
 		}
 
 		ul.icons a {
-			display: inline-block;
 			width: 2em;
 			height: 2em;
 			line-height: 2em;

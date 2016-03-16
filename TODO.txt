@@ -1,10 +1,7 @@
 
 
 
--need to fix contact & about me links on non-index pages
-
--figure out what to do about external link icons at bottom of sidebar
-
 -add content to resume and project pages
 
 -add about me content, remove portfolio placeholder
+
